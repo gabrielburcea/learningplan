@@ -1,0 +1,16 @@
+Project,Type,Data Type,GitHub Repo,Technologies,Duration (Weeks),Difficulty
+RAG Document Chatbot,GenAI,Unstructured,https://github.com/Azure-Samples/azure-search-openai-demo,"Azure OpenAI, AI Search, Python, React",4,Intermediate
+Customer Support Agent,Agentic AI,Unstructured,https://github.com/langchain-ai/langchain/tree/master/templates/rag-conversation,"LangChain, OpenAI, ChromaDB",3,Intermediate
+Data Analysis Agent,Agentic AI,Structured,https://github.com/langchain-ai/langchain/blob/master/cookbook/pandas_agent.ipynb,"LangChain, Pandas, SQL",2,Beginner
+Code Assistant,Agentic AI,Structured,https://github.com/microsoft/autogen/blob/main/notebook/agentchat_auto_feedback_from_code_execution.ipynb,"AutoGen, Docker, Python",3,Intermediate
+Financial Analysis System,Agentic AI,Structured,https://github.com/joaomdmoura/crewAI-examples/tree/main/stock_analysis,"CrewAI, APIs, Pandas",4,Advanced
+MLOps End-to-End Pipeline,MLOps,Structured,https://github.com/Azure/mlops-v2,"Azure ML, DevOps, Python",6,Advanced
+Fraud Detection Pipeline,MLOps,Structured,https://github.com/databricks/mlops-stack,"Databricks, MLflow, Delta",5,Advanced
+Content Moderation,GenAI,Unstructured,https://github.com/Azure-Samples/azure-ai-content-safety-samples,"Azure AI, Python, FastAPI",3,Intermediate
+Recommender System,MLOps,Structured,https://github.com/databricks-industry-solutions/recommendation-system,"Spark, MLflow, Delta",4,Intermediate
+Document Intelligence,GenAI,Unstructured,https://github.com/Azure-Samples/azure-ai-document-intelligence-samples,"Document Intelligence, OpenAI",3,Intermediate
+Multi-Agent Research,Agentic AI,Unstructured,https://github.com/geekan/MetaGPT/tree/main/examples,"MetaGPT, Python",4,Advanced
+Feature Store Implementation,MLOps,Structured,https://github.com/feast-dev/feast/tree/master/examples,"Feast, Redis, Snowflake",3,Intermediate
+Model Monitoring Dashboard,MLOps,Structured,https://github.com/evidentlyai/evidently/tree/main/examples,"Evidently, Prometheus, Grafana",3,Intermediate
+SQL Agent,Agentic AI,Structured,https://github.com/langchain-ai/langchain/blob/master/cookbook/sql_db_qa.ipynb,"LangChain, SQLAlchemy",2,Beginner
+Agentic RAG,Agentic AI,Unstructured,https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb,"LangGraph, FAISS, OpenAI",4,Advanced
