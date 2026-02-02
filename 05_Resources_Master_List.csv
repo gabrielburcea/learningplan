@@ -1,0 +1,29 @@
+Resource Type,Name,URL,Cost,Best For
+Book,Natural Language Processing with Transformers,O'Reilly,Paid,GenAI Foundations
+Book,Build a Large Language Model (From Scratch),Manning,Paid,Understanding LLMs
+Book,Hands-On Large Language Models,O'Reilly,Paid,Practical GenAI
+Book,LangChain AI Handbook,Self-published,Paid,Agentic AI
+Book,Introducing MLOps,O'Reilly,Paid,MLOps Foundations
+Book,Practical MLOps,O'Reilly,Paid,MLOps Implementation
+Book,Designing Machine Learning Systems,O'Reilly,Paid,System Design
+Book,The Big Book of MLOps,https://www.databricks.com/resources/ebook/the-big-book-of-mlops,FREE,Databricks MLOps
+Book,Feature Engineering for Machine Learning,O'Reilly,Paid,Feature Engineering
+Book,Trustworthy Machine Learning,O'Reilly,Paid,Responsible AI
+GitHub,nanoGPT,https://github.com/karpathy/nanoGPT,FREE,Learning GPT
+GitHub,Azure ML Examples,https://github.com/Azure/azureml-examples,FREE,Azure ML
+GitHub,Databricks ML Examples,https://github.com/databricks/databricks-ml-examples,FREE,Databricks ML
+GitHub,LangChain Templates,https://github.com/langchain-ai/langchain/tree/master/templates,FREE,Agent Templates
+GitHub,AutoGen Notebooks,https://github.com/microsoft/autogen/tree/main/notebook,FREE,Multi-Agent Systems
+GitHub,MLOps v2,https://github.com/Azure/mlops-v2,FREE,Production MLOps
+GitHub,Databricks MLOps Stack,https://github.com/databricks/mlops-stack,FREE,Databricks Production
+GitHub,RAG Techniques,https://github.com/NirDiamant/RAG_Techniques,FREE,Advanced RAG
+Tool,Google Colab,https://colab.research.google.com,FREE,GPU Training
+Tool,Azure Free Tier,https://azure.microsoft.com/free,FREE ($200 credit),Cloud Services
+Tool,Databricks Community,https://community.cloud.databricks.com,FREE,Databricks Learning
+Tool,Hugging Face,https://huggingface.co,FREE,Models & Datasets
+Tool,Ollama,https://ollama.ai,FREE,Local LLMs
+Tool,LangChain,https://langchain.com,FREE (OSS),Agent Framework
+Tool,MLflow,https://mlflow.org,FREE (OSS),Experiment Tracking
+Tool,Evidently,https://evidentlyai.com,FREE (OSS),ML Monitoring
+Tool,Feast,https://feast.dev,FREE (OSS),Feature Store
+Tool,ChromaDB,https://www.trychroma.com,FREE,Vector Database
